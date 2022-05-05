@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Fotolia_252194497_Subscription_Monthly_M.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
